@@ -10,7 +10,7 @@ This is a simple javascript project made with the help of HTML, CSS and OpenWeat
 
 # Demo of App
 
-![Screenshot (20)](https://user-images.githubusercontent.com/90332218/194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1.png)
+![Screenshot](https://mirzasaikatahmmed.github.io/React-Weather-App/assets/React-Weather-App-Demo.png)
 
 
 # check out live 
